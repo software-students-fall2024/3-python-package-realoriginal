@@ -1,6 +1,6 @@
 # Python Package Exercise
 
-An exercise to create a Python package, build it, test it, distribute it, and use it. See [instructions](./instructions.md) for details.
+An exercise to create a Python package, build it, test it, distribute it, and use it. See [instructions](./instructions.md) for details. (Edit on 11/6 after receiving clarification from Professor) The pyjokes package was used as inspiration for the exception classes in exc.py and variable handling and imports in pyexcuses.py.
 
 # Package Page on Pypi
 
